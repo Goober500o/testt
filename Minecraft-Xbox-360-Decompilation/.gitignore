@@ -1,0 +1,14 @@
+
+.vscode/
+.vs/
+out/
+
+*.xex
+*.xexp
+
+
+# XDK stuff
+/Compiler/bin
+/Compiler/lib
+/Compiler/include
+/Compiler/crt
